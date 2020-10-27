@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CAD finished with all gears - Erkhme.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="60.221223"
+     inkscape:cy="579.26954"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:measure-start="90,555"
+     inkscape:measure-end="90,565"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid47" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="layer1-2"
+       inkscape:label="Layer 1" />
+    <g
+       id="layer1-4"
+       inkscape:label="Layer 1" />
+    <path
+       id="path51"
+       d="m 6.2052077,98.891528 c -0.1286174,0.0309 -0.2374379,0.06188 -0.3477469,-0.02778 -0.024408,-0.02982 -0.062584,-0.135479 -0.015968,-0.164851 0.5937887,-0.374129 0.3907901,-0.342955 0.6765112,-0.377875 0.117764,-0.01109 0.236087,-0.01244 0.3542726,-0.01291 0.073369,0.0114 0.038159,0.0021 0.1057894,0.02726 0,0 -0.5787858,0.39561 -0.5787858,0.39561 v 0 c -0.058566,-0.01199 -0.027656,-0.0079 -0.092888,-0.01109 -0.1149935,0.0013 -0.2322147,1.27e-4 -0.3442136,0.0293 -0.2406068,0.118179 0.016523,-0.0068 0.5295368,-0.319402 0.038195,-0.02328 -0.054931,0.01138 -0.051555,0.03878 8.202e-4,0.0067 0.00645,0.01196 0.00967,0.01794 0.09532,0.05155 0.212167,0.0029 0.3060176,-0.03017 0,0 -0.5506415,0.435181 -0.5506415,0.435181 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.26458332" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="5.958322"
+       x="2.6458333"
+       id="image61"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 11.112501,19.716655 -1.5875035,-7.14375 7.4083365,1.852083 m -7.6729195,10.054167 -6.3500002,3.96875 6.3500002,3.704168 m 1.8520865,5.291666 -1.5875035,6.879167 6.8791695,-1.852083 m 5.291667,2.381249 3.704167,5.820834 3.704166,-5.820834 m 10.583334,-8.202083 1.587499,7.14375 -6.879166,-1.5875 M 41.275,23.949988 47.360417,27.918738 41.275,31.622905 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.614583 m -17.727083,-6.614582 3.96875,-6.3500007 3.96875,6.3500007 m -13.229167,9.260416 v 2.645834"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4692" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5880"
+       x="2.6458321"
+       y="54.906239"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       id="path5882"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.112501,68.664571 -1.5875035,-7.14375 7.4083365,1.852083 m -7.6729195,10.054167 -6.3499999,3.96875 6.3499999,3.704168 m 1.8520865,5.291666 -1.5875035,6.879167 6.8791695,-1.852083 m 5.291667,2.381249 3.704167,5.820838 3.704166,-5.820838 m 10.583334,-8.202083 1.587499,7.14375 -6.879166,-1.5875 M 41.275,72.897904 47.360417,76.866654 41.275,80.570821 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.614583 m -17.727083,-6.614582 3.96875,-6.35 3.96875,6.35 m -13.229167,9.260416 v 2.645834"
+       inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="150.15623"
+       x="2.6458321"
+       id="image5884"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5886"
+       x="2.6458333"
+       y="102.53125"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 11.112501,116.28958 -1.5875045,-7.14375 7.4083375,1.85208 m -7.6729205,10.05417 -6.3499999,3.96875 6.3499999,3.70417 m 1.8520875,5.29166 -1.5875045,6.87917 6.8791705,-1.85208 m 5.291667,2.38125 3.704167,5.82083 3.704166,-5.82083 m 10.583334,-8.20209 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.25625 6.085417,3.96875 -6.085417,3.70417 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.61458 m -17.727083,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.229167,9.26042 v 2.64583"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5888" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 11.112501,163.91458 -1.5875045,-7.14375 7.4083375,1.85208 m -7.6729205,10.05417 -6.3499996,3.96875 6.3499996,3.70417 m 1.8520875,5.29166 -1.5875045,6.87917 6.8791705,-1.85208 m 5.291667,2.38125 3.704167,5.82083 3.704166,-5.82083 m 10.583334,-8.20209 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.25625 6.085417,3.96875 -6.085417,3.70417 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.61458 m -17.727083,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.229167,9.26042 v 2.64583"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5901" />
+    <path
+       style="stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       d="m 53.830207,98.891528 c -0.128617,0.0309 -0.237438,0.06188 -0.347747,-0.02778 -0.02441,-0.02982 -0.06258,-0.135479 -0.01597,-0.164851 0.593789,-0.374129 0.390791,-0.342955 0.676512,-0.377875 0.117764,-0.01109 0.236087,-0.01244 0.354272,-0.01291 0.07337,0.0114 0.03816,0.0021 0.10579,0.02726 0,0 -0.578786,0.39561 -0.578786,0.39561 v 0 c -0.05857,-0.01199 -0.02766,-0.0079 -0.09289,-0.01109 -0.114994,0.0013 -0.232215,1.27e-4 -0.344214,0.0293 -0.240607,0.118179 0.01652,-0.0068 0.529537,-0.319402 0.0382,-0.02328 -0.05493,0.01138 -0.05156,0.03878 8.2e-4,0.0067 0.0065,0.01196 0.0097,0.01794 0.09532,0.05155 0.212167,0.0029 0.306018,-0.03017 0,0 -0.550642,0.435181 -0.550642,0.435181 z"
+       id="path5903" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5905"
+       x="50.270836"
+       y="5.958322"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       id="path5907"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.7375,19.716655 -1.587503,-7.14375 7.408336,1.852083 m -7.672919,10.054167 -6.35,3.96875 6.35,3.704168 m 1.852086,5.291666 -1.587503,6.879167 6.879169,-1.852083 m 5.291667,2.381249 3.704167,5.820834 3.704166,-5.820834 m 10.583334,-8.202083 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.256251 6.085417,3.96875 -6.085417,3.704167 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.614583 m -17.727083,-6.614582 3.96875,-6.3500007 3.96875,6.3500007 M 63.5,21.833322 v 2.645834"
+       inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="54.906239"
+       x="50.270836"
+       id="image5909"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 58.7375,68.664571 -1.587503,-7.14375 7.408336,1.852083 m -7.672919,10.054167 -6.35,3.96875 6.35,3.704168 m 1.852086,5.291666 -1.587503,6.879167 6.879169,-1.852083 m 5.291667,2.381249 3.704167,5.820838 3.704166,-5.820838 m 10.583334,-8.202083 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.256251 6.085417,3.96875 -6.085417,3.704167 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.614583 m -17.727083,-6.614582 3.96875,-6.35 3.96875,6.35 M 63.5,70.781238 v 2.645834"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5911" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5913"
+       x="50.270836"
+       y="150.15623"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="102.53125"
+       x="50.270836"
+       id="image5915"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       id="path5917"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.7375,116.28958 -1.587504,-7.14375 7.408337,1.85208 m -7.67292,10.05417 -6.35,3.96875 6.35,3.70417 m 1.852087,5.29166 -1.587504,6.87917 6.87917,-1.85208 m 5.291667,2.38125 3.704167,5.82083 3.704166,-5.82083 m 10.583334,-8.20209 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.25625 6.085417,3.96875 -6.085417,3.70417 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.61458 m -17.727083,-6.61458 3.96875,-6.35 3.96875,6.35 M 63.5,118.40625 v 2.64583"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path5919"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.7375,163.91458 -1.587503,-7.14375 7.408336,1.85208 m -7.672919,10.05417 -6.35,3.96875 6.35,3.70417 m 1.852086,5.29166 -1.587503,6.87917 6.879169,-1.85208 M 69.320833,189.05 73.025,194.87083 76.729166,189.05 m 10.583334,-8.20209 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.25625 6.085417,3.96875 -6.085417,3.70417 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.61458 m -17.727083,-6.61458 3.96875,-6.35 3.96875,6.35 M 63.5,166.03125 v 2.64583"
+       inkscape:connector-curvature="0" />
+    <path
+       style="stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       d="m 101.45522,98.891529 c -0.12862,0.0309 -0.23744,0.06188 -0.34775,-0.02778 -0.0244,-0.02982 -0.0626,-0.135479 -0.016,-0.164851 0.59379,-0.374129 0.39079,-0.342955 0.67651,-0.377875 0.11777,-0.01109 0.23609,-0.01244 0.35428,-0.01291 0.0734,0.0114 0.0382,0.0021 0.10579,0.02726 0,0 -0.57879,0.39561 -0.57879,0.39561 v 0 c -0.0586,-0.01199 -0.0277,-0.0079 -0.0929,-0.01109 -0.11499,0.0013 -0.23221,1.27e-4 -0.34421,0.0293 -0.24061,0.118179 0.0165,-0.0068 0.52954,-0.319402 0.0382,-0.02328 -0.0549,0.01138 -0.0516,0.03878 8.2e-4,0.0067 0.006,0.01196 0.01,0.01794 0.0953,0.05155 0.21217,0.0029 0.30602,-0.03017 0,0 -0.55064,0.435181 -0.55064,0.435181 z"
+       id="path5921" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5923"
+       x="97.895836"
+       y="5.9583235"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       id="path5925"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.36251,19.716656 -1.5875,-7.14375 7.40833,1.852083 m -7.67292,10.054167 -6.349998,3.96875 6.349998,3.704168 m 1.85209,5.291666 -1.5875,6.879167 6.87917,-1.852083 m 5.29166,2.381249 3.70417,5.820834 3.70417,-5.820834 m 10.58333,-8.202083 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.256251 6.08542,3.96875 -6.08542,3.704167 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.614583 m -17.72708,-6.614582 3.96875,-6.3500003 3.96875,6.3500003 m -13.22917,9.260416 v 2.645834"
+       inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="54.906239"
+       x="97.895828"
+       id="image5927"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 106.36251,68.664572 -1.5875,-7.14375 7.40833,1.852083 m -7.67292,10.054167 -6.349998,3.96875 6.349998,3.704168 m 1.85209,5.291666 -1.5875,6.879167 6.87917,-1.852083 m 5.29166,2.381249 3.70417,5.820837 3.70417,-5.820837 m 10.58333,-8.202083 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.256251 6.08542,3.96875 -6.08542,3.704167 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.614583 m -17.72708,-6.614582 3.96875,-6.35 3.96875,6.35 m -13.22917,9.260416 v 2.645834"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5929" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5931"
+       x="97.895828"
+       y="150.15625"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="102.53125"
+       x="97.895836"
+       id="image5933"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       id="path5935"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.36251,116.28959 -1.5875,-7.14376 7.40833,1.85209 m -7.67292,10.05417 -6.349999,3.96875 6.349999,3.70417 m 1.85209,5.29166 -1.5875,6.87917 6.87917,-1.85208 m 5.29166,2.38125 3.70417,5.82083 3.70417,-5.82083 m 10.58333,-8.20209 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.25625 6.08542,3.96875 -6.08542,3.70417 m -7.9375,-17.4625 7.14375,-1.58751 -1.5875,6.61459 m -17.72708,-6.61459 3.96875,-6.35 3.96875,6.35 m -13.22917,9.26043 v 2.64583"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path5937"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.36251,163.91459 -1.5875,-7.14375 7.40833,1.85208 m -7.67292,10.05417 -6.349998,3.96875 6.349998,3.70417 m 1.85209,5.29166 -1.5875,6.87917 6.87917,-1.85208 m 5.29166,2.38125 3.70417,5.82083 3.70417,-5.82083 m 10.58333,-8.20209 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.25625 6.08542,3.96875 -6.08542,3.70417 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.61458 m -17.72708,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.22917,9.26042 v 2.64583"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path5939"
+       d="m 149.08022,98.891529 c -0.12862,0.0309 -0.23744,0.06188 -0.34775,-0.02778 -0.0244,-0.02982 -0.0626,-0.135479 -0.016,-0.164851 0.59379,-0.374129 0.39079,-0.342955 0.67651,-0.377875 0.11776,-0.01109 0.23609,-0.01244 0.35427,-0.01291 0.0734,0.0114 0.0382,0.0021 0.10579,0.02726 0,0 -0.57878,0.39561 -0.57878,0.39561 v 0 c -0.0586,-0.01199 -0.0277,-0.0079 -0.0929,-0.01109 -0.115,0.0013 -0.23222,1.27e-4 -0.34422,0.0293 -0.2406,0.118179 0.0165,-0.0068 0.52954,-0.319402 0.0382,-0.02328 -0.0549,0.01138 -0.0516,0.03878 8.2e-4,0.0067 0.007,0.01196 0.01,0.01794 0.0953,0.05155 0.21217,0.0029 0.30602,-0.03017 0,0 -0.55064,0.435181 -0.55064,0.435181 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.26458332" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="5.9583235"
+       x="145.52083"
+       id="image5941"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 153.98751,19.716656 -1.5875,-7.14375 7.40833,1.852083 m -7.67292,10.054167 -6.35,3.96875 6.35,3.704168 m 1.85209,5.291666 -1.5875,6.879167 6.87916,-1.852083 m 5.29167,2.381249 3.70417,5.820834 3.70416,-5.820834 m 10.58334,-8.202083 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.256251 6.08541,3.96875 -6.08541,3.704167 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.614583 m -17.72708,-6.614582 3.96875,-6.3500003 3.96875,6.3500003 m -13.22917,9.260416 v 2.645834"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5943" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5945"
+       x="145.52083"
+       y="54.906239"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       id="path5947"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.98751,68.664572 -1.5875,-7.14375 7.40833,1.852083 m -7.67292,10.054167 -6.35,3.96875 6.35,3.704168 m 1.85209,5.291666 -1.5875,6.879167 6.87916,-1.852083 m 5.29167,2.381249 3.70417,5.820837 3.70416,-5.820837 m 10.58334,-8.202083 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.256251 6.08541,3.96875 -6.08541,3.704167 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.614583 m -17.72708,-6.614582 3.96875,-6.35 3.96875,6.35 m -13.22917,9.260416 v 2.645834"
+       inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="150.15625"
+       x="145.52083"
+       id="image5949"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5951"
+       x="145.52083"
+       y="102.53125"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 153.98751,116.28959 -1.58751,-7.14376 7.40834,1.85209 m -7.67292,10.05417 -6.35,3.96875 6.35,3.70417 m 1.85209,5.29166 -1.58751,6.87917 6.87917,-1.85208 m 5.29167,2.38125 3.70417,5.82083 3.70416,-5.82083 m 10.58334,-8.20209 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.25625 6.08541,3.96875 -6.08541,3.70417 m -7.9375,-17.4625 7.14375,-1.58751 -1.5875,6.61459 m -17.72708,-6.61459 3.96875,-6.35 3.96875,6.35 m -13.22917,9.26043 v 2.64583"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5953" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 153.98751,163.91459 -1.5875,-7.14375 7.40833,1.85208 m -7.67292,10.05417 -6.35,3.96875 6.35,3.70417 m 1.85209,5.29166 -1.5875,6.87917 6.87916,-1.85208 m 5.29167,2.38125 3.70417,5.82083 3.70416,-5.82083 m 10.58334,-8.20209 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.25625 6.08541,3.96875 -6.08541,3.70417 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.61458 m -17.72708,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.22917,9.26042 v 2.64583"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5955" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5957"
+       x="2.6458333"
+       y="200.42708"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       id="path5959"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.112502,214.18541 -1.5875035,-7.14375 7.4083365,1.85208 m -7.6729195,10.05417 -6.3500003,3.96875 6.3500003,3.70417 m 1.8520865,5.29166 -1.5875035,6.87917 6.8791695,-1.85208 m 5.291667,2.38125 3.704167,5.82083 3.704166,-5.82083 m 10.583334,-8.20209 1.587499,7.14375 -6.879166,-1.5875 m 6.879166,-18.25625 6.085417,3.96875 -6.085417,3.70417 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.61458 m -17.727083,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.229167,9.26042 v 2.64583"
+       inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="200.42708"
+       x="50.270836"
+       id="image5961"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 58.737501,214.18541 -1.587503,-7.14375 7.408336,1.85208 m -7.672919,10.05417 -6.35,3.96875 6.35,3.70417 m 1.852086,5.29166 -1.587503,6.87917 6.879169,-1.85208 m 5.291667,2.38125 3.704167,5.82083 3.704166,-5.82083 m 10.583334,-8.20209 1.587499,7.14375 -6.879166,-1.5875 M 88.9,218.41874 94.985417,222.38749 88.9,226.09166 m -7.937499,-17.4625 7.143749,-1.5875 -1.587499,6.61458 m -17.727083,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.229167,9.26042 v 2.64583"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5963" />
+    <image
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png"
+       y="200.42709"
+       x="97.895836"
+       id="image5965"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       preserveAspectRatio="none"
+       height="44.979168"
+       width="44.979168"
+       style="fill:#00ff00;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 106.36251,214.18542 -1.5875,-7.14375 7.40833,1.85208 m -7.67292,10.05417 -6.349997,3.96875 6.349997,3.70417 m 1.85209,5.29166 -1.5875,6.87917 6.87917,-1.85208 m 5.29166,2.38125 3.70417,5.82083 3.70417,-5.82083 m 10.58333,-8.20209 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.25625 6.08542,3.96875 -6.08542,3.70417 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.61458 m -17.72708,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.22917,9.26042 v 2.64583"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5967" />
+    <image
+       style="fill:#00ff00;fill-opacity:1"
+       width="44.979168"
+       height="44.979168"
+       preserveAspectRatio="none"
+       xlink:href="file:///C:/Users/erikg/Documents/CAD%20documents/Lasercutting%20designs/Gear%20project.png"
+       id="image5969"
+       x="145.52083"
+       y="200.42709"
+       sodipodi:absref="C:\Users\erikg\Documents\CAD documents\Lasercutting designs\Gear project.png" />
+    <path
+       id="path5971"
+       style="fill:none;stroke:#00f600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.98751,214.18542 -1.5875,-7.14375 7.40833,1.85208 m -7.67292,10.05417 -6.35,3.96875 6.35,3.70417 m 1.85209,5.29166 -1.5875,6.87917 6.87916,-1.85208 m 5.29167,2.38125 3.70417,5.82083 3.70416,-5.82083 m 10.58334,-8.20209 1.5875,7.14375 -6.87917,-1.5875 m 6.87917,-18.25625 6.08541,3.96875 -6.08541,3.70417 m -7.9375,-17.4625 7.14375,-1.5875 -1.5875,6.61458 m -17.72708,-6.61458 3.96875,-6.35 3.96875,6.35 m -13.22917,9.26042 v 2.64583"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.875001,118.40624 1.322916,1.32292 -1.322916,1.32292"
+       id="path5973"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 63.5,121.05208 64.822917,119.72916 63.5,118.40624"
+       id="path5975"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.44792,119.72916 h -2.64584"
+       id="path5977"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.42708,119.72916 h 2.64583"
+       id="path5979"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.552084,167.35416 h 2.645833"
+       id="path5981"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 64.822917,167.35416 H 62.177084"
+       id="path5983"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.80208,166.03124 2.64584,2.64584"
+       id="path5985"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00e100;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.44792,166.03124 -2.64584,2.64584"
+       id="path5987"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00fc00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.07291,166.03124 -2.64583,2.64584"
+       id="path5989"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.42708,166.03124 2.64583,2.64584"
+       id="path5991"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00f500;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.552084,216.30208 2.645833,2.64583"
+       id="path5993"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.197917,216.30208 -2.645833,2.64583"
+       id="path5995"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.177084,216.30208 2.645833,2.64583"
+       id="path5997"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ce00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.822917,216.30208 -2.645833,2.64583"
+       id="path5999"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.125,216.30208 -1.32292,1.32291 1.32292,1.32292 1.32292,-1.32292 -1.32292,-1.32291"
+       id="path6001"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.75,216.30208 -1.32292,1.32291 1.32292,1.32292 1.32291,-1.32292 z"
+       id="path6003"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
